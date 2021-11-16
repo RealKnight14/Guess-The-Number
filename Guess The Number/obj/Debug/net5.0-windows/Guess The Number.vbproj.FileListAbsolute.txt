@@ -1,0 +1,18 @@
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess The Number.vbprojAssemblyReference.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess_The_Number.frmGuess.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess The Number.vbproj.GenerateResource.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess The Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess The Number.AssemblyInfoInputs.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess The Number.AssemblyInfo.vb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess The Number.vbproj.CoreCompileInputs.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\bin\Debug\net5.0-windows\Guess The Number.exe
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\bin\Debug\net5.0-windows\Guess The Number.deps.json
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\bin\Debug\net5.0-windows\Guess The Number.runtimeconfig.json
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\bin\Debug\net5.0-windows\Guess The Number.runtimeconfig.dev.json
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\bin\Debug\net5.0-windows\Guess The Number.dll
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\bin\Debug\net5.0-windows\ref\Guess The Number.dll
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\bin\Debug\net5.0-windows\Guess The Number.pdb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess The Number.dll
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\ref\Guess The Number.dll
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess The Number.pdb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Guess The Number\obj\Debug\net5.0-windows\Guess The Number.genruntimeconfig.cache
